@@ -1,0 +1,10 @@
+Username: 1
+Password: 1
+Full Name: 1
+Gender: male
+Date of Birth: 2025-04-03
+Phone Number: 111-1111-1111
+Nationality: bangladesh
+Address: 1
+Preferred Job Types: restaurant_serving, kitchen
+-------------------------------------
